@@ -1,0 +1,12 @@
+com\Jiang\fillter\CharacterEncodingFilter.class
+com\Jiang\service\BookServiceImpl.class
+com\Jiang\service\BookService.class
+com\Jiang\intercept\LoginCheck.class
+com\Jiang\service\UserService.class
+com\Jiang\controller\UserController.class
+com\Jiang\controller\BookController.class
+com\Jiang\pojo\Book.class
+com\Jiang\dao\Book\BookMapper.class
+com\Jiang\dao\User\UserMapper.class
+com\Jiang\pojo\User.class
+com\Jiang\service\UserServiceImpl.class
