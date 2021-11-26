@@ -10,8 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16d9866f-6755-4574-9290-fa2e0fd45459" name="Default Changelist" comment="feat: README.md更新说明">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.assets/1611661801127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.assets/1611661932099.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.assets/1611662102327.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.assets/1611662166423.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.assets/1611662239606.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +71,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="工件" />
     <property name="project.structure.proportion" value="0.252149" />
-    <property name="project.structure.side.proportion" value="0.5689655" />
+    <property name="project.structure.side.proportion" value="0.53586495" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -86,17 +91,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat 服务器.Tomcat 8.5.60">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ssmbuild-521.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
       <script-file value="$PROJECT_DIR$/ssmbuild-521.sql" />
       <script-mode>FILE</script-mode>
@@ -230,7 +224,8 @@
       <workItem from="1621584810780" duration="844000" />
       <workItem from="1623046547424" duration="627000" />
       <workItem from="1623142575639" duration="46000" />
-      <workItem from="1633673462209" duration="1854000" />
+      <workItem from="1633673462209" duration="3313000" />
+      <workItem from="1637926688496" duration="349000" />
     </task>
     <task id="LOCAL-00001" summary="修复静态资源导出问题">
       <created>1618557438238</created>
@@ -253,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633674943573</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: README.md更新说明">
+      <created>1633675515325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1633675515325</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: README.md更新说明">
+      <created>1633675692980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633675692980</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +278,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
